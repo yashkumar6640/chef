@@ -1,0 +1,23 @@
+I, [2016-10-10T09:17:31.493852 #9512]  INFO -- default-centos-72: -----> Creating <default-centos-72>...
+I, [2016-10-10T09:17:34.681109 #9512]  INFO -- default-centos-72: Bringing machine 'default' up with 'virtualbox' provider...
+I, [2016-10-10T09:17:35.279763 #9512]  INFO -- default-centos-72: ==> default: Checking if box 'bento/centos-7.2' is up to date...
+I, [2016-10-10T09:22:36.018714 #9512]  INFO -- default-centos-72: ==> default: There was a problem while downloading the metadata for your box
+I, [2016-10-10T09:22:36.018714 #9512]  INFO -- default-centos-72: ==> default: to check for updates. This is not an error, since it is usually due
+I, [2016-10-10T09:22:36.018714 #9512]  INFO -- default-centos-72: ==> default: to temporary network problems. This is just a warning. The problem
+I, [2016-10-10T09:22:36.019692 #9512]  INFO -- default-centos-72: ==> default: encountered was:
+I, [2016-10-10T09:22:36.019692 #9512]  INFO -- default-centos-72: ==> default: 
+I, [2016-10-10T09:22:36.019692 #9512]  INFO -- default-centos-72: ==> default: Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+I, [2016-10-10T09:22:36.019692 #9512]  INFO -- default-centos-72: ==> default: 
+I, [2016-10-10T09:22:36.020669 #9512]  INFO -- default-centos-72: ==> default: If you want to check for box updates, verify your network connection
+I, [2016-10-10T09:22:36.020669 #9512]  INFO -- default-centos-72: ==> default: is valid and try again.
+I, [2016-10-10T09:22:36.643357 #9512]  INFO -- default-centos-72: ==> default: Machine not provisioned because `--no-provision` is specified.
+I, [2016-10-10T09:22:39.981468 #9512]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-10-10T09:22:43.071478 #9512]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-10-10T09:22:46.176645 #9512]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-10-10T09:22:49.271584 #9512]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-10-10T09:22:52.364415 #9512]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-10-10T09:22:55.474953 #9512]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-10-10T09:22:58.570486 #9512]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-10-10T09:23:01.671759 #9512]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-10-10T09:23:04.773529 #9512]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-10-10T09:23:07.846504 #9512]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
